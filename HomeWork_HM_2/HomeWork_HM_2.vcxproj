@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="HomeWork_HM_2.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="w_and_p.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
